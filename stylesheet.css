@@ -1,0 +1,83 @@
+	h1,h2,h3{
+text-align: center;
+color:#9B83D5;
+}
+	p{
+text-align: justify;
+margin-left: auto;
+margin-right: auto;
+width: 70%;
+}
+	body{
+color:#6E50A8;
+font-size:20px;
+font-family: 'Poppins', sans-serif;
+background-color:#FFFFFF;
+text-align: center;
+}
+	ul{
+color:#6E50A8;
+list-style-type:none;
+font-size:28px;
+}
+	.titulo-inicial{
+font-size:48px
+}
+	.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+	img {
+  border-radius: 12px;
+}
+	a:link {
+  color:#9B83D5;
+}
+	a:visited {
+  color:#6E50A8;
+}
+
+	nav ul {
+list-style-type:none;
+}
+	nav li {
+display:inline;
+float:left;
+}
+	nav a:link, nav a:visited {
+color:white;
+display:block;
+width:300px;
+text-align:center;
+padding:10px 0;
+text-decoration:none;
+}
+	nav a:hover {
+background-color:#9B83D5;
+}
+
+	header {
+background-image: linear-gradient(45deg, #9b83d5, #b8a4e0, #d3c6ea, #eee9f4);
+height:65px;
+width:1000px;
+border-radius: 12px;
+margin-left: auto;
+margin-right: auto;
+
+	#wiki {
+background-color:white;
+}
+	#carreira-tv {
+background-color:white;
+}
+	#carreira-musical {
+background-color:white;
+}
+	#sucesso {
+background-color:white;
+}
+	#submit {
+margin-left:200px;
+}
